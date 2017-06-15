@@ -1,6 +1,3 @@
-# Movement
-code for beta.movement.niem.gov
-
 # Overview 
 Movement provides an overall view of the thousands of data elements found in NIEM that are used throughout the government and beyond for some pretty amazing things. It’s a user-friendly interface and provides smarter search results and a streamlined way to build lightweight JavaScript Object Notation (JSON) Schema. 
 
