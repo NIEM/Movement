@@ -12,5 +12,5 @@ To learn more about what NIEM is doing with JSON overall, our overview page at N
 
 # Getting Started
 The code behind Movement is open source and available on GitHub. Movement has a front end, back end, and leverages Solr. To help … we’ve broke these sections of the tool into three distinct repositories….
-Link to Movemnet and JSON schema page…. 
+
 
