@@ -1,5 +1,5 @@
 # Overview 
-Movement provides an overall view of the thousands of data elements found in NIEM that are used throughout the government and beyond for some pretty amazing things. It’s a user-friendly interface and provides smarter search results and a streamlined way to build lightweight JavaScript Object Notation (JSON) Schema. 
+Movement provides an overall view of the thousands of data elements found in NIEM that are used throughout the government and beyond for some pretty amazing things. It’s a user-friendly interface that delivers smarter search results and a streamlined way to build lightweight JavaScript Object Notation (JSON) Schema. 
 
 Driven by and for users, this tool enables anyone to explore what NIEM has to offer, regardless of model expertise or technical understanding. It’s the first step to enable greater flexibility and simplicity when interacting and leveraging NIEM.
 
