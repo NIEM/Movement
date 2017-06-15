@@ -5,7 +5,7 @@ Driven by and for users, this tool enables anyone to explore what NIEM has to of
 
 [Learn more about Movement](http://niem.github.io/movement/)—what you are searching, sample of the JSON Schema output, and more,
 
-To learn more about what NIEM is doing with JSON overall, our overview page at [NIEM.gov/techhub/json](https://www.niem.gov/techhub/json) is a great place to start. 
+To learn more about what NIEM is doing with JSON overall, our [JSON overview page](https://www.niem.gov/techhub/json) is a great place to start. 
 
 # Getting Started
 The code behind Movement is open source and available on GitHub. Movement has a front end, back end, and leverages Solr. To help … we’ve broke these sections of the tool into three distinct repositories….
