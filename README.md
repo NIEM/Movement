@@ -7,8 +7,7 @@ Driven by and for users, this tool enables anyone to explore what NIEM has to of
 
 To learn more about what NIEM is doing with JSON overall, our [JSON overview page](https://www.niem.gov/techhub/json) is a great place to start. 
 
-## Join the Movement
-The Movement tool is an exciting glimpse into the future of NIEM, and we can’t wait to see what the community accomplishes by using it. Join the movement today—visit [beta.movement.niem.gov](https://beta.movement.niem.gov) to access the tool. 
+The Movement tool is an exciting glimpse into the future of NIEM, and we can’t wait to see what the community accomplishes by using it. Visit [beta.movement.niem.gov](https://beta.movement.niem.gov) to access the tool. 
 
 ## Got feedback? 
 We want to hear from you! You can provide your feedback directly on GitHub by [opening an issue](https://github.com/NIEM/Movement/issues) or though [contacting us](https://niem.gov/contact-us) on NIEM.gov. 
