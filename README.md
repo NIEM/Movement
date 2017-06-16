@@ -3,7 +3,7 @@ Movement provides an overall view of the thousands of data elements found in NIE
 
 Driven by and for users, this tool enables anyone to explore what NIEM has to offer, regardless of model expertise or technical understanding. It’s the first step to enable greater flexibility and simplicity when interacting and leveraging NIEM.
 
-[Learn more about Movement](http://niem.github.io/movement/)—what you are searching, sample of the JSON Schema output, and more,
+[Learn more about Movement](http://niem.github.io/movement/)—what you are searching, sample of the JSON Schema output, and more.
 
 To learn more about what NIEM is doing with JSON overall, our [JSON overview page](https://www.niem.gov/techhub/json) is a great place to start. 
 
@@ -11,7 +11,7 @@ To learn more about what NIEM is doing with JSON overall, our [JSON overview pag
 The Movement tool is an exciting glimpse into the future of NIEM, and we can’t wait to see what the community accomplishes by using it. Join the movement today—visit [beta.movement.niem.gov](https://beta.movement.niem.gov) to access the tool. 
 
 ## Got feedback? 
-We want to hear from you! You can provide your feedback directly on [GitHub](issues) or though [NIEM.gov](https://niem.gov/contact-us).
+We want to hear from you! You can provide your feedback directly on GitHub by [opening an issue](https://github.com/NIEM/Movement/issues) or though [contacting us](https://niem.gov/contact-us) on NIEM.gov. 
 
 # Getting Started
 The code behind Movement is open source and available on GitHub. To help make the Movement tool more modular, we've broken the tool into three distinct repositories:
@@ -36,6 +36,6 @@ We have ideas for additional functionality we’d love to see get implemented in
 NIEM has created an automated build pipeline to allow developers an easy way to modify and improve the tool—facilitating developers to build off the source code and submit their pull requests.
 
 ### Tool Users:
-We are very interested in hearing your vision for future evolution of the tool as well as your general feedback on the capabilities. You can provide your feedback directly on [GitHub](issues) or though [NIEM.gov](https://niem.gov/contact-us)
+We are very interested in hearing your vision for future evolution of the tool as well as your general feedback on the capabilities. You can provide your feedback directly on GitHub by [opening an issue](https://github.com/NIEM/Movement/issues) or though [contacting us](https://niem.gov/contact-us) on NIEM.gov.
 
 
