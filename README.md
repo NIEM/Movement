@@ -9,7 +9,7 @@ To learn more about what NIEM is doing with JSON overall, our [JSON overview pag
 
 The Movement tool is an exciting glimpse into the future of NIEM, and we can’t wait to see what the community accomplishes by using it. Visit [beta.movement.niem.gov](https://beta.movement.niem.gov) to access the tool. 
 
-Movement leverages [NIEM version 3.2](https://github.com/NIEM/NIEM-Releases).
+Movement leverages [NIEM version 3.2](https://github.com/NIEM/NIEM-Releases). It will be upated to use version 4.0 once that release is published.
 
 ## Got feedback? 
 We want to hear from you! You can provide your feedback directly on GitHub by [opening an issue](https://github.com/NIEM/Movement/issues) or though [contacting us](https://niem.gov/contact-us) on NIEM.gov. 
