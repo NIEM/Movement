@@ -30,7 +30,7 @@ We have ideas for additional functionality we’d love to see get implemented in
 *	Extension schema functionality for properties that are not in NIEM
 *	Have the User Interface display the Codelist options 
 *	Export formats other than JSON Schema (XSD, Java Library, .NET Library, NIEM UML, etc.)
-*	Implement profiles and dashboards to build you exchanges with a group
+*	Implement profiles and dashboards to build your exchanges with a group
 *	Organizational data dictionary import
 *	Import of existing NIEM exchanges
 
