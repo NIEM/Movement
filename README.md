@@ -25,6 +25,8 @@ To make a contribution to one of these repositories, visit the links above where
 ## How to contribute
 Since this tool was born out of collaboration with users, it’s open source—so that the community that inspired Movement can continue to contribute to its evolution. 
 
+In the spirit of open-source tooling, we have provided a [Scrum board](https://github.com/NIEM/Movement/projects/1) that allows users to keep track of Movement’s issues and enhancements. Anyone can [submit a new issue](https://github.com/NIEM/Movement/issues) for the tool for something they would like to see added or a bug. Once reviewed by the engineering team, issues will be added to the Scrum board's backlog. Developers and tool contributors can then address issues from the backlog and track their status using the Scrum board—providing an Agile approach to development and complete transparency to users.
+
 ### Tool Developers:
 We have ideas for additional functionality we’d love to see get implemented in the tool. If you want to join the Movement, here are a few suggestions for contributions:
 *	Extension schema functionality for properties that are not in NIEM
