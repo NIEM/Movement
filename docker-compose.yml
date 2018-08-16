@@ -1,0 +1,26 @@
+version: '3'
+services:
+  movement-solr:
+    build: ./movement-solr
+    restart: always
+    ports:
+      - "8983:8983"
+    networks:
+      - niem-network
+  movement-backend:
+    build: ./movement-backend
+    restart: always
+    ports:
+      - "7000:7000"
+    networks:
+      - niem-network
+  movement-frontend:
+    build: ./movement-frontend
+    restart: always
+    ports:
+      - "8888:80"
+    networks:
+      - niem-network
+
+networks:
+  niem-network:
